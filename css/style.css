@@ -52,3 +52,22 @@
 .right-b img{
     width: 100%;
 }
+
+.about-area{
+    background: url(../images/shapes/Frame\ 58.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 100%;
+    padding: 30px;
+}
+.about{
+    display: flex;
+}
+.a-left{
+    width: 50%;
+    align-items: center;
+}
+.a-left img{
+    width: 50%;
+}
